@@ -36,7 +36,7 @@ int main(){
 			printf("Laco interno\n");
   			printf("\n%d",vetor[i].vet[j]);
 		   }	
-	   
+	// nao funciona direito, imprime endereco de memoria no final.
    }	
 }	
    // imprime o que foi inserido
